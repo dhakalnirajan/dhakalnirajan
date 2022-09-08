@@ -51,8 +51,7 @@ I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I read books in non-fiction.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nirajandhakal07-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nirajandhakal07),[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsmFSjGTSmVHGFcXJMFXgcbJDqFjgbWhmbbhwnbtlmgGNSCmrpFLNJzGNndDFdzWVVkWxMGG)
-
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nirajandhakal07-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nirajandhakal07)  [![Gmail Badge](https://img.shields.io/badge/Nirajan-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsmFSjGTSmVHGFcXJMFXgcbJDqFjgbWhmbbhwnbtlmgGNSCmrpFLNJzGNndDFdzWVVkWxMGG)   [![Twitter Badge](https://img.shields.io/badge/nirajandhakal_7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://www.twitter.com/nirajandhakal_07)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -64,8 +63,15 @@ I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender 3D" alt="Blender 3D" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="TF" alt="Tensorflow" width="40" height="40"/>&nbsp;
 </div>
+
+
 <!--
 **dhakalnirajan/dhakalnirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
