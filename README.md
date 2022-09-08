@@ -104,6 +104,9 @@ I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcM
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${dhakalnirajan}.${dhakalnirajan})
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 
 ### :writing_hand: Blog Posts :
 
