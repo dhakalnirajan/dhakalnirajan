@@ -71,6 +71,10 @@ I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="TF" alt="Tensorflow" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+
 
 <!--
 **dhakalnirajan/dhakalnirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
