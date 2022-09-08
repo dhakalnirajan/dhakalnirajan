@@ -10,6 +10,10 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="https://www.buymeacoffee.com/dhakalnirajan" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  </div>
+
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nirajandhakal07">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -47,7 +51,7 @@ I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I read books in non-fiction.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nirajandhakal07-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nirajandhakal07) , [![Gmail Badge](https://img.shields.io/badge/-
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nirajandhakal07-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nirajandhakal07) , [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/nirajandhakal71@gmail.com)
 
 
 <!--
