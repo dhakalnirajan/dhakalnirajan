@@ -75,7 +75,12 @@ I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcM
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=dhakalnirajan
+![Nirajan's Github stats](https://github-readme-stats.vercel.app/api?username=dhakalnirajan&theme=bear&show_icons=true&background=000a04)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhakalnirajan&theme=vision-friendly-dark&background=000d07)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&layout=compact&theme=tokyonight&background=000d07)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dhakalnirajan/dhakalnirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
