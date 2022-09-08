@@ -1,6 +1,5 @@
-### Hi there 👋
+## Welcome To My Profile.
 
----
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -22,19 +21,33 @@
   </a>
 </div>
 
-<div id="count" align="left">
+<div id="count" align="center">
   <img src="https://komarev.com/ghpvc/?username=dhakalnirajan&style=flat-square&color=blue" alt=""/>
 </div>
 
+## Greetings, Fellow User. 🙏
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
+---
 
+### :man_technologist: About Me :
 
+I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/fe6NAMLeTWZq3v9Nmg/giphy.gif" width="120"> 
+</div>
 
+- :telescope: I’m Learning Machine Learning to Build Real-World Applications For productivity to humans.
 
+- :seedling: Exploring Technical Content Writing.
 
+- :zap: In my free time, I read books in non-fiction.
 
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nirajandhakal07-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nirajandhakal07) , [![Gmail Badge](https://img.shields.io/badge/-
 
 
 <!--
