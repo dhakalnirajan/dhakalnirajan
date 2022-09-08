@@ -9,11 +9,15 @@
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="120"/>
 </div>
 
+</a>
 <div id="badges" align="center">
   <a href="https://www.buymeacoffee.com/dhakalnirajan" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
   </div>
 
 <div id="badges" align="center">
+  <a href="https://www.github.com/dhakalnirajan">
+    <img src="https://img.shields.io/badge/Github-00001F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/nirajandhakal07">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,10 +27,24 @@
   <a href="https://www.twitter.com/nirajandhakal_07">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.instagram.com/nirajan.dhakal.007">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.reddit.com/nirajandhakal37">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+  </a>
 </div>
 
+
+
+
+
+
 <div id="count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhakalnirajan&style=flat-square&color=blue" alt=""/>
+<a href="https://github.com/dhakalnirajan/dhakalnirajan/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/dhakalnirajan/dhakalnirajan?style=for-the-badge" alt="github-profile-readme-generator stars"/>
+</a>
+  <img src="https://komarev.com/ghpvc/?username=dhakalnirajan&style=for-the-badge&color=red" alt=""/>
 </div>
 
 ## Greetings, Fellow User. 🙏
@@ -45,7 +63,7 @@ I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://media.giphy.com/media/fe6NAMLeTWZq3v9Nmg/giphy.gif" width="120"> 
 </div>
 
-- :telescope: I’m Learning Machine Learning to Build Real-World Applications For productivity to humans.
+- :telescope: I’m Learning Machine Learning to Build Real-World Applications for better and improved productivity to humans.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -81,6 +99,7 @@ I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcM
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&layout=compact&theme=tokyonight&background=000d07)](https://github.com/anuraghazra/github-readme-stats)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${dhakalnirajan}.${dhakalnirajan})
 
 ---
 
