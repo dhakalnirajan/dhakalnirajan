@@ -1,11 +1,6 @@
 ## Welcome To My Profile.
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -65,9 +60,41 @@
 
 ### :man_technologist: About Me :
 
-I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
+
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/fe6NAMLeTWZq3v9Nmg/giphy.gif" width="120"> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">&nbsp;</div>
+  
+```yaml
+name: Nirajan Dhakal
+located_in: Butwal, Rupandehi
+current_job: Student
+education:
+  [
+    "Self taught Machine Learning Practitioner",
+  ]
+company: Data Research Council For Students (DRCFS)
+
+fields_of_interests:
+  [
+    "Astronomy",
+    "Astrophysics",
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "Generative Adversarial Network",
+    "Books"
+  ]
+technical_background:
+  [
+    "Updating the void",
+  ]
+  
+currently_learning: ["Machine Learning In Python"]
+2022 Goals: ["Create 10 Neural Network Projects"]
+hobbies: ["Reading", "Cinema", "Swimming", "Acting", "Writing"]
+```
+<div id="header" align="centre">
+   <img src="https://media.giphy.com/media/fe6NAMLeTWZq3v9Nmg/giphy.gif" width="120"> &nbsp;
 </div>
 
 - :telescope: I’m Learning Machine Learning to Build Real-World Applications for better and improved productivity to humans.
@@ -106,6 +133,8 @@ I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcM
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&layout=compact&theme=tokyonight&background=000d07)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/dhakalnirajan/dhakalnirajan/blob/output/github-contribution-grid-snake.svg)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${dhakalnirajan}.${dhakalnirajan})
 
 ---
@@ -117,20 +146,3 @@ I am a Machine Learning Beginner <img src="https://media.giphy.com/media/WUlplcM
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-
-<!--
-**dhakalnirajan/dhakalnirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
