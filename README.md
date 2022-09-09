@@ -37,11 +37,6 @@
   </a>
 </div>
 
-
-
-
-
-
 <div id="count" align="center">
 <a href="https://github.com/dhakalnirajan/dhakalnirajan/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/dhakalnirajan/dhakalnirajan?style=for-the-badge" alt="github-profile-readme-generator stars"/>
@@ -138,16 +133,13 @@ hobbies: ["Reading", "Cinema", "Swimming", "Acting", "Writing"]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&layout=compact&theme=tokyonight&background=000d07)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/dhakalnirajan/dhakalnirajan/blob/output/github-contribution-grid-snake.svg)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${dhakalnirajan}.${dhakalnirajan})
 
 ---
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ---
+## Catch My Tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nirajandhakal_7&layout="wide")](https://github.com/gazf/github-readme-twitter)
 
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
