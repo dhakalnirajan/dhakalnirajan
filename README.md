@@ -125,6 +125,11 @@ hobbies: ["Reading", "Cinema", "Swimming", "Acting", "Writing"]
 
 ---
 
+## Catch a Meme:
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+---
+
 ### :fire: My Stats :
 
 ![Nirajan's Github stats](https://github-readme-stats.vercel.app/api?username=dhakalnirajan&theme=bear&show_icons=true&background=000a04)
