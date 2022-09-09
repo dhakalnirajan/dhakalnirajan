@@ -14,8 +14,8 @@
   <a href="https://www.buymeacoffee.com/dhakalnirajan" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
   </div>
   
-  ---
-  ## MY SOCIAL PROFILES
+
+## MY SOCIAL PROFILES
 <div id="badges" align="center">
   <a href="https://www.github.com/dhakalnirajan">
     <img src="https://img.shields.io/badge/Github-00001F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Badge"/>
@@ -43,6 +43,7 @@
 </a>
   <img src="https://komarev.com/ghpvc/?username=dhakalnirajan&style=for-the-badge&color=red" alt=""/>
 </div>
+
 
 ## Greetings, Fellow User. 🙏
 
