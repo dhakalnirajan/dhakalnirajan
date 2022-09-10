@@ -39,9 +39,9 @@
 
 <div id="count" align="center">
 <a href="https://github.com/dhakalnirajan/dhakalnirajan/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/dhakalnirajan/dhakalnirajan?style=for-the-badge" alt="github-profile-readme-generator stars"/>
+<img src="https://img.shields.io/github/stars/dhakalnirajan/dhakalnirajan?style=for-the-badge&color=00001F" alt="github-profile-readme-generator stars"/>
 </a>
-  <img src="https://komarev.com/ghpvc/?username=dhakalnirajan&style=for-the-badge&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=dhakalnirajan&style=for-the-badge&color=49308F" alt="">
 </div>
 
 
@@ -121,8 +121,10 @@ hobbies: ["Reading", "Cinema", "Swimming", "Acting", "Writing"]
 
 ---
 
+
 ## Catch a Meme:
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 
 ---
 
@@ -132,15 +134,17 @@ hobbies: ["Reading", "Cinema", "Swimming", "Acting", "Writing"]
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhakalnirajan&theme=vision-friendly-dark&background=000d07)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&layout=compact&theme=tokyonight&background=000d07)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&theme=tokyonight&background=000d07)](https://github.com/dhakalnirajan/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${dhakalnirajan}.${dhakalnirajan})
 
----
+**My Sparkline**
+
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/dhakalnirajan/badges)
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
----
+
 ## Catch My Tweets
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nirajandhakal_7&layout="wide")](https://github.com/gazf/github-readme-twitter)
-
----
