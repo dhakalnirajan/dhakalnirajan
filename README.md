@@ -1,6 +1,14 @@
-## Welcome To My Profile.
+<h2 align="center"> 🤠 Howdy! I'm Nirajan Dhakal </h2>
 
+<p align="center">I'm a Machine Learning Beginner and Front-end developer. I am currently working Artificial Neural Networks.
+When I'm not coding find me reading books or talking about the universe. </p>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nirajandhakal07" target="_blank"> <img src="https://img.shields.io/badge/-nirajandhakal07-blue?style=for-the-badge&logo=Linkedin&logoColor=white"> </a>
+  <a href="mailto:nirajandhakal71@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Nirajan-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href="https://twitter.com/nirajandhakal_7" target="_blank"> <img src="https://img.shields.io/badge/nirajandhakal_7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black"> </a>
+</div>
+<br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -12,13 +20,12 @@
 </a>
 <div id="badges" align="center">
   <a href="https://www.buymeacoffee.com/dhakalnirajan" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-  </div>
-  
+</div>
 
 ## MY SOCIAL PROFILES
 <div id="badges" align="center">
-  <a href="https://www.github.com/dhakalnirajan">
-    <img src="https://img.shields.io/badge/Github-00001F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Badge"/>
+  <a href="https://dhakalnirajan..medium.com">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)" alt="Medium Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/nirajandhakal07">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -42,17 +49,12 @@
 <img src="https://img.shields.io/github/stars/dhakalnirajan/dhakalnirajan?style=for-the-badge&color=00001F" alt="github-profile-readme-generator stars"/>
 </a>
   <img src="https://komarev.com/ghpvc/?username=dhakalnirajan&style=for-the-badge&color=49308F" alt="">
+  
 </div>
-
-
-## Greetings, Fellow User. 🙏
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
----
 
 ### :man_technologist: About Me :
 
@@ -61,10 +63,23 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">&nbsp;</div>
   
 ```yaml
-name: Nirajan Dhakal
-located_in: Butwal, Rupandehi
-current_job: Student
-education:
+class Nirajan < Person
+  def initialize
+    @name = 'Nirajan Dhakal'
+    @age = 19
+    @work = [ ]
+    @education = [ 'Gandaki University' ]
+    @hobbies = ["Reading", "Cinema", "Swimming", "Acting", "Writing"]
+  end
+
+  def current_location
+    'Butwal, Nepal'
+  end
+
+  def next_location
+    '???, ???'
+  end
+
   [
     "Self taught Machine Learning Practitioner",
   ]
@@ -87,7 +102,7 @@ technical_background:
   
 currently_learning: ["Machine Learning In Python"]
 2022 Goals: ["Create 10 Neural Network Projects"]
-hobbies: ["Reading", "Cinema", "Swimming", "Acting", "Writing"]
+end
 ```
 <div id="header" align="centre">
    <img src="https://media.giphy.com/media/fe6NAMLeTWZq3v9Nmg/giphy.gif" width="120"> &nbsp;
@@ -99,7 +114,7 @@ hobbies: ["Reading", "Cinema", "Swimming", "Acting", "Writing"]
 
 - :zap: In my free time, I read books in non-fiction.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nirajandhakal07-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nirajandhakal07)  [![Gmail Badge](https://img.shields.io/badge/Nirajan-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsmFSjGTSmVHGFcXJMFXgcbJDqFjgbWhmbbhwnbtlmgGNSCmrpFLNJzGNndDFdzWVVkWxMGG)   [![Twitter Badge](https://img.shields.io/badge/nirajandhakal_7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://www.twitter.com/nirajandhakal_07)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -130,17 +145,12 @@ hobbies: ["Reading", "Cinema", "Swimming", "Acting", "Writing"]
 
 ### :fire: My Stats :
 
-![Nirajan's Github stats](https://github-readme-stats.vercel.app/api?username=dhakalnirajan&theme=bear&show_icons=true&background=000a04)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhakalnirajan&theme=vision-friendly-dark&background=000d07)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&theme=tokyonight&background=000d07)](https://github.com/dhakalnirajan/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${dhakalnirajan}.${dhakalnirajan})
-
-**My Sparkline**
-
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/dhakalnirajan/badges)
+| My Github Stats                                                                                                                                  | Top Languages                                                                                                                                                                                   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Nirajan Dhakal's Github stats](https://github-readme-stats.vercel.app/api?username=dhakalnirajan&theme=bear&show_icons=true&background=000a04) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&theme=tokyonight&background=000d07&width=300)](https://github.com/dhakalnirajan/github-readme-stats) |
+| My Github Streak                                                                                                                                 | My Sparkline                                                                                                                                                                                    |
+| ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhakalnirajan&theme=vision-friendly-dark&background=000d07)                | [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/dhakalnirajan/badges)                                                                                            |
 
 
 <!--START_SECTION:waka-->
