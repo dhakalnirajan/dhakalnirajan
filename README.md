@@ -24,7 +24,7 @@ When I'm not coding find me reading books or talking about the universe. </p>
 
 ## MY SOCIAL PROFILES
 <div id="badges" align="center">
-  <a href="https://dhakalnirajan..medium.com">
+  <a href="https://dhakalnirajan.medium.com">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)" alt="Medium Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/nirajandhakal07">
@@ -137,7 +137,7 @@ end
 ---
 
 ### :fire: My Stats :
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhakalnirajan&column=-1&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 | My Github Stats                                                                                                                                  | Top Languages                                                                                                                                                                                   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -149,6 +149,8 @@ end
 ## Catch a Meme:
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
+## Get a Joke:
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
