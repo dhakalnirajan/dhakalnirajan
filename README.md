@@ -136,13 +136,6 @@ end
 
 ---
 
-
-## Catch a Meme:
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-
----
-
 ### :fire: My Stats :
 
 
@@ -151,6 +144,10 @@ end
 | ![Nirajan Dhakal's Github stats](https://github-readme-stats.vercel.app/api?username=dhakalnirajan&theme=bear&show_icons=true&background=000a04) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&theme=tokyonight&background=000d07&width=300)](https://github.com/dhakalnirajan/github-readme-stats) |
 | My Github Streak                                                                                                                                 | My Sparkline                                                                                                                                                                                    |
 | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhakalnirajan&theme=vision-friendly-dark&background=000d07)                | [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/dhakalnirajan/badges)                                                                                            |
+
+
+## Catch a Meme:
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
 <!--START_SECTION:waka-->
