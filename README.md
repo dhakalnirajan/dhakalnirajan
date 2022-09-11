@@ -158,6 +158,3 @@ end
 ## Get a Joke:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
-## Catch My Tweets
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nirajandhakal_7&layout="wide")](https://github.com/gazf/github-readme-twitter)
