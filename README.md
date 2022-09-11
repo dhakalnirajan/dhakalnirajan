@@ -146,6 +146,11 @@ end
 | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhakalnirajan&theme=vision-friendly-dark&background=000d07)                | [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/dhakalnirajan/badges)                                                                                            |
 
 
+<p align="center"><b>My Github Activity Graph</b></p>
+
+[![Nirajan's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhakalnirajan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## Catch a Meme:
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
