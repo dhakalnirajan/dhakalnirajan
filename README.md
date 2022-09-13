@@ -114,7 +114,6 @@ end
 
 - :zap: In my free time, I read books in non-fiction.
 
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
