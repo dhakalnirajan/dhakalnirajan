@@ -150,6 +150,8 @@ end
 [![Nirajan's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhakalnirajan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhakalnirajan&theme=monokai)
+
 ## Catch a Meme:
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
