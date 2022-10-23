@@ -42,6 +42,8 @@ When I'm not coding find me reading books or talking about the universe. </p>
   <a href="https://www.reddit.com/nirajandhakal37">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
+  <a href="https://www.kaggle.com/agamotto">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 </div>
 
 <div id="count" align="center">
