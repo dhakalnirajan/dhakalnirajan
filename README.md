@@ -1,6 +1,6 @@
 <h2 align="center"> 🤠 Howdy! I'm Nirajan Dhakal </h2>
 
-<p align="center">I'm a Machine Learning Beginner and Front-end developer. I am currently working Artificial Neural Networks.
+<p align="center">I'm a Machine Learning Beginner and Front-end developer. I am currently working on Artificial Neural Networks.
 When I'm not coding find me reading books or talking about the universe. </p>
 
 <div id="badges" align="center">
