@@ -61,57 +61,14 @@ When I'm not coding find me reading books or talking about the universe. </p>
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">&nbsp;</div>
   
-```yaml
-class Nirajan < Person
-  def initialize
-    @name = 'Nirajan Dhakal'
-    @age = 19
-    @work = [ ]
-    @education = [ 'Gandaki University' ]
-    @hobbies = ["Reading", "Cinema", "Swimming", "Acting", "Writing"]
-  end
 
-  def current_location
-    'Butwal, Nepal'
-  end
+My current location? Guess you will never know. I am not sure about my next location either. I am a self-taught Machine Learning practitioner with profound knowledge on Quantum Mechanics and introductory/working knowledge on Quantum Computing. I am currently working at Data Research Council For Students (DRCFS) as a community builder. DRCFS is a student-led data-intensive research organization for hands-on practice to enhance digital literacy. I am actively learning and have interests in Astronomy and Astrophycics, Cosmology, Web Development, Artificial Intelligence, Quantum Computation. I am a bookworm/ savant and feed on books when I find something interesting.
 
-  def next_location
-    '???, ???'
-  end
-
-  [
-    "Self taught Machine Learning Practitioner",
-  ]
-company: Data Research Council For Students (DRCFS)
-
-fields_of_interests:
-  [
-    "Astronomy",
-    "Astrophysics",
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "Generative Adversarial Network",
-    "Books"
-  ]
-technical_background:
-  [
-    "Updating the void",
-  ]
-  
-currently_learning: ["Machine Learning In Python"]
-2022 Goals: ["Learn GANs"]
-end
-```
-<div id="header" align="centre">
-   <img src="https://media.giphy.com/media/fe6NAMLeTWZq3v9Nmg/giphy.gif" width="120"> &nbsp;
-</div>
-
-- :telescope: I’m Learning Machine Learning to Build Real-World Applications for better and improved productivity to humans.
+- :telescope: I’m Learning Machine Learning to Build Real-World Applications for better and improved productivity around the world.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I read books in non-fiction.
+- :zap: In my free time, I read books (it has to be ineresting) [I am a bit biased towards non-fiction].
 
 ---
 
