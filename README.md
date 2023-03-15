@@ -2,6 +2,8 @@
 
 <p align="center">I'm a Machine Learning Engineer and Front-End Developer currently working on Astronomical Data Analysis from <b>James Webb Space Telescope</b>.</p> <p align="center"> When I'm not coding, <b> FIND ME READING BOOKS OR TALKING ABOUT THE SECRETS OF THE UNIVERSE </b>. </p>
 
+<br>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nirajandhakal07" target="_blank"> <img src="https://img.shields.io/badge/-nirajandhakal07-blue?style=for-the-badge&logo=Linkedin&logoColor=white"> </a>
   <a href="mailto:nirajandhakal71@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Nirajan-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
@@ -60,7 +62,7 @@
 </div>
   
 
-I am a self-taught Machine Learning practitioner with profound knowledge on Quantum Mechanics and introductory/working knowledge on Quantum Computing. I am currently working at **Data Research Council For Students** (DRCFS) as a **Machine Learning Engineer** (previously as Community Co-ordinator). DRCFS is a student-led data-intensive research organization for hands-on practice to enhance digital literacy. Also, I am working as a member at **Nepal Research and Collaboration Center** (NRCC).
+I am a *self-taught* **Machine Learning practitioner** with profound knowledge on Quantum Mechanics and introductory/working knowledge on Quantum Computing. I am currently working at **Data Research Council For Students** (DRCFS) as a **Machine Learning Engineer** (previously as **Community Co-ordinator**). DRCFS is a student-led data-intensive research organization for hands-on practice to enhance digital literacy. Also, I am working as a member at **Nepal Research and Collaboration Center** (NRCC).
   
   
 I am actively learning and have interests in **Astronomy** and **Astrophycics**, **Cosmology**, **Web Development**, **Artificial Intelligence**, **Quantum Computation**. I am a bookworm/ savant and feed on books when I find something interesting.
@@ -108,7 +110,7 @@ I am actively learning and have interests in **Astronomy** and **Astrophycics**,
 
 <br>
   
-**NOTE**: The languages and tools that are displayed doen't necessarily define my abilities with 100% accuracy and are only for information displayed to the viewer.
+**NOTE**: The languages and tools that are displayed doesn't necessarily define my abilities with 100% accuracy and are only for information displayed to the viewer.
   
 <br>
   
