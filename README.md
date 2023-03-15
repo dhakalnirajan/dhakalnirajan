@@ -1,7 +1,6 @@
 <h2 align="center"> 🤠 Howdy! I'm Nirajan Dhakal </h2>
 
-<p align="center">I'm a Machine Learning Beginner and Front-end developer. I am currently working on Artificial Neural Networks.
-When I'm not coding find me reading books or talking about the universe. </p>
+<p align="center">I'm a Machine Learning Engineer and Front-End Developer currently working on Astronomical Data Analysis from <b>James Webb Space Telescope</b>.</p> <p align="center"> When I'm not coding, <b> FIND ME READING BOOKS OR TALKING ABOUT THE SECRETS OF THE UNIVERSE </b>. </p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nirajandhakal07" target="_blank"> <img src="https://img.shields.io/badge/-nirajandhakal07-blue?style=for-the-badge&logo=Linkedin&logoColor=white"> </a>
@@ -9,17 +8,10 @@ When I'm not coding find me reading books or talking about the universe. </p>
   <a href="https://twitter.com/nirajandhakal_7" target="_blank"> <img src="https://img.shields.io/badge/nirajandhakal_7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black"> </a>
 </div>
 <br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<br>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="120"/>
-</div>
-
-</a>
 <div id="badges" align="center">
-  <a href="https://www.buymeacoffee.com/dhakalnirajan" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  <a href="https://www.buymeacoffee.com/dhakalnirajan" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="42" width="175"></a>
 </div>
 
 ## MY SOCIAL PROFILES
@@ -43,32 +35,42 @@ When I'm not coding find me reading books or talking about the universe. </p>
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 </div>
 
+  <br> <br>
+  
 <div id="count" align="center">
 <a href="https://github.com/dhakalnirajan/dhakalnirajan/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/dhakalnirajan/dhakalnirajan?style=for-the-badge&color=00001F" alt="github-profile-readme-generator stars"/>
+<img src="https://img.shields.io/github/stars/dhakalnirajan/dhakalnirajan?style=for-the-badge&color=00021F" alt="github-profile-readme-generator stars"/>
 </a>
   <img src="https://komarev.com/ghpvc/?username=dhakalnirajan&style=for-the-badge&color=49308F" alt="">
-  
 </div>
 
+  <br>
+  
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+  <br>
+  
 ### :man_technologist: About Me :
 
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">&nbsp;</div>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</div>
   
 
-My current location? Guess you will never know. I am not sure about my next location either. I am a self-taught Machine Learning practitioner with profound knowledge on Quantum Mechanics and introductory/working knowledge on Quantum Computing. I am currently working at Data Research Council For Students (DRCFS) as a community builder. DRCFS is a student-led data-intensive research organization for hands-on practice to enhance digital literacy. I am actively learning and have interests in Astronomy and Astrophycics, Cosmology, Web Development, Artificial Intelligence, Quantum Computation. I am a bookworm/ savant and feed on books when I find something interesting.
+I am a self-taught Machine Learning practitioner with profound knowledge on Quantum Mechanics and introductory/working knowledge on Quantum Computing. I am currently working at **Data Research Council For Students** (DRCFS) as a **Machine Learning Engineer** (previously as Community Co-ordinator). DRCFS is a student-led data-intensive research organization for hands-on practice to enhance digital literacy. Also, I am working as a member at **Nepal Research and Collaboration Center** (NRCC).
+  
+  
+I am actively learning and have interests in **Astronomy** and **Astrophycics**, **Cosmology**, **Web Development**, **Artificial Intelligence**, **Quantum Computation**. I am a bookworm/ savant and feed on books when I find something interesting.
 
-- :telescope: I’m Learning Machine Learning to Build Real-World Applications for better and improved productivity around the world.
+
+- :telescope: I’m Learning Machine Learning to Build Human-aligned AI systems to increase productivity of people in wide range of tasks.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I read books (it has to be ineresting) [I am a bit biased towards non-fiction].
+- :zap: When I have time for myself, I ponder on various ideas, hypotheses, theories and talk to myself.
 
 ---
 
@@ -104,7 +106,12 @@ My current location? Guess you will never know. I am not sure about my next loca
 | My Github Streak                                                                                                                                 | My Sparkline                                                                                                                                                                                    |
 | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhakalnirajan&theme=vision-friendly-dark&background=000d07)                | [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/dhakalnirajan/badges)                                                                                            |
 
-
+<br>
+  
+**NOTE**: The languages and tools that are displayed doen't necessarily define my abilities with 100% accuracy and are only for information displayed to the viewer.
+  
+<br>
+  
 <p align="center"><b>My Github Activity Graph</b></p>
 
 [![Nirajan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhakalnirajan&theme=tokyo-night)](https://github.com/dhakalnirajan/github-readme-activity-graph)
