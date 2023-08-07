@@ -35,6 +35,8 @@
   </a>
   <a href="https://www.kaggle.com/agamotto">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+  <a href="https://g.dev/dhakalnirajan">
+    <img src="./img/gdev.png" height="50" width="100"/>
 </div>
 
   <br> <br>
@@ -103,7 +105,7 @@ I am actively learning and have interests in **Astronomy** and **Astrophycics**,
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhakalnirajan&column=-1&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 | My Github Stats                                                                                                                                  | Top Languages                                                                                                                                                                                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Nirajan Dhakal's Github stats](https://github-readme-stats.vercel.app/api?username=dhakalnirajan&theme=bear&show_icons=true&background=000a04) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&theme=tokyonight&background=000d07&width=300)](https://github.com/dhakalnirajan/github-readme-stats) |
 | My Github Streak                                                                                                                                 | My Sparkline                                                                                                                                                                                    |
 | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhakalnirajan&theme=vision-friendly-dark&background=000d07)                | [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/dhakalnirajan/badges)                                                                                            |
