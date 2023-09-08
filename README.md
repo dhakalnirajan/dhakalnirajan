@@ -120,7 +120,7 @@ I am actively learning and have interests in **Astronomy** and **Astrophycics**,
 
  [![Nirajan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhakalnirajan&theme=tokyo-night)](https://github.com/dhakalnirajan/github-readme-activity-graph)
 
-ERROR! The API to render activity graph is not working.
+ERROR! The API to render activity graph is not working. It seems that the API is not rendering.
 
 <p align="center"> <b> My Contributions Card</b> </p>
 
