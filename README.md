@@ -1,4 +1,4 @@
-<h2 align="center"> 🤠 Howdy! I'm Nirajan Dhakal </h2>
+ <h2 align="center"> 🤠 Howdy! I'm Nirajan Dhakal </h2>
 
 <p align="center">I'm a Machine Learning Engineer and Front-End Developer currently working on Astronomical Data Analysis from <b>James Webb Space Telescope</b>.</p> <p align="center"> When I'm not coding, <b> FIND ME READING BOOKS OR TALKING ABOUT THE SECRETS OF THE UNIVERSE </b>. </p>
 
@@ -107,9 +107,9 @@ I am actively learning and have interests in **Astronomy** and **Astrophycics**,
 
 | My Github Stats                                                                                                                                  | Top Languages                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Nirajan Dhakal's Github stats](https://github-readme-stats.vercel.app/api?username=dhakalnirajan&theme=bear&show_icons=true&background=000a04) | [![dhakalnirajan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&theme=synthwave&show_icons=true&hide_border=true&layout=compact)](https://github.com/dhakalnirajan/github-readme-stats) |
+| ![dhakalnirajan's Stats](https://github-readme-stats.vercel.app/api?username=dhakalnirajan&theme=synthwave&show_icons=true&hide_border=true&count_private=true) | [![dhakalnirajan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&theme=synthwave&show_icons=true&hide_border=true&layout=compact)](https://github.com/dhakalnirajan/github-readme-stats) |
 | My Github Streak                                                                                                                                 | My Sparkline                                                                                                                                                                                    |
-| ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=dhakalnirajan&theme=vision-friendly-dark&background=000d07)                | [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/dhakalnirajan/badges)                                                                                            |
+| ![dhakalnirajan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhakalnirajan&theme=synthwave&hide_border=true)                | [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/dhakalnirajan/badges)                                                                                            |
 
 <br>
   
