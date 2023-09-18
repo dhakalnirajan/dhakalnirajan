@@ -63,9 +63,9 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </div>
   
-I am a *self-taught* **Machine Learning practitioner** with profound knowledge on Quantum Mechanics and working knowledge on *Quantum Computing*. I am currently working at **Data Research Council For Students** (DRCFS) as a **Community Co-ordinator**. DRCFS is a student-led data-intensive research organization for hands-on practice to enhance digital literacy. Also, I am working as a member at **Nepal Research and Collaboration Center** (NRCC).
+I am a *self-taught* **Machine Learning practitioner** with profound knowledge on Quantum Mechanics and working knowledge on *Quantum Computing*. I am currently working at **Data Research Council For Students** (DRCFS) as a **Community Co-Ordinator**. DRCFS is a student-led data-intensive research organization for hands-on practice to enhance digital literacy. Also, I am working as a Python And Web Developer at **Nepal Research and Collaboration Center** (NRCC).
 
-I am actively learning and have interests in **Astronomy** and **Astrophycics**, **Cosmology**, **Web Development**, **Artificial Intelligence**, **Quantum Computation**. I am a bookworm/ savant and feed on books when I find something interesting.
+I am actively learning and have interests in **Astronomy** and **Astrophysics**, **Cosmology**, **Web Development**, **Artificial Intelligence**, **Quantum Computation**. I am a bookworm/ savant and feed on books when I find something interesting.
 
 - 🔭 I’m Learning Machine Learning to Build Human-aligned AI systems to increase productivity of people in wide range of tasks.
 
