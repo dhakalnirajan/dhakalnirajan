@@ -87,7 +87,7 @@ I am actively learning and have interests in **Astronomy** and **Astrophysics**,
   <img src="./img/php-original.svg" title="PHP" alt="PHP Programming" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender 3D" alt="Blender 3D" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="140" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="./img/github.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
@@ -117,15 +117,19 @@ I am actively learning and have interests in **Astronomy** and **Astrophysics**,
   
 <br>
   
-<p align="center"><b>My Github Activity Graph</b></p>
+<p align="center"><b>My GitHub Activity/Contributions Graph</b></p>
 
- <!-- [![Nirajan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhakalnirajan&theme=tokyo-night)](https://github.com/dhakalnirajan/github-readme-activity-graph) -->
+[![Nirajan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhakalnirajan&bg_color=190a19&color=4d92db&line=df58ae&point=8f66ff&area=true&hide_border=true&title_color=6682aeff&radius=30)](https://github-readme-activity-graph.vercel.app/graph?username=dhakalnirajan&bg_color=190a19&color=4d92db&line=df58ae&point=8f66ff&area=true&hide_border=true&title_color=6682aeff&radius=30)
 
-ERROR! The API to render activity graph is not working. It seems that the API is not rendering.
+<!-- NOTE: ERROR! The API to render activity graph is not working. It seems that the API is not rendering. -->
 
 <p align="center"> <b> My Contributions Card</b> </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhakalnirajan&theme=monokai)
+
+## Stickers [Digital Achievements]
+
+[![My Holopin Badges](https://holopin.me/dhakalnirajan)](https://holopin.io/@dhakalnirajan)
 
 ## 😆 Get a Joke
 
