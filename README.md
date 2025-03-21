@@ -1,12 +1,12 @@
  <h2 align="center"> 🤠 Howdy! I'm Nirajan Dhakal </h2>
 
-<p align="center">I'm a Machine Learning Engineer and Front-End Developer currently working on Astronomical Data Analysis from <b>James Webb Space Telescope</b>.</p> <p align="center"> When I'm not coding, <b> FIND ME READING BOOKS OR TALKING ABOUT THE SECRETS OF THE UNIVERSE </b>. </p>
+<p align="center">I'm a Machine Learning Engineer and Front-End Developer but working on Astronomical Data Analysis ATM from <b>James Webb Space Telescope</b>.I am also a part of <i>Simulation Working Group </i> as well as <i>Wide Field Instrument (WFI) Working Group</i> for <b>Nancy Grace Roman Telescope</b> currently working on building the next generation of Space Observatories to settle essential questions in the areas of dark energy, exoplanets and infrared physics.</p> <p align="center"> When I'm not coding, <b> FIND ME READING BOOKS OR TALKING ABOUT THE SECRETS OF THE UNIVERSE </b>. </p>
 
 <br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nirajandhakal07" target="_blank"> <img src="https://img.shields.io/badge/-nirajandhakal07-blue?style=for-the-badge&logo=Linkedin&logoColor=white"> </a>
-  <a href="mailto:nirajandhakal71@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Nirajan-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href="mailto:nirajandhakal.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Nirajan-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href="https://twitter.com/nirajandhakal_7" target="_blank"> <img src="https://img.shields.io/badge/nirajandhakal_7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black"> </a>
 </div>
 <br>
@@ -22,17 +22,14 @@
   <a href="https://www.linkedin.com/in/nirajandhakal07">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCp6BWK8KTFYypVnI-YgRNdA">
+  <a href="https://www.youtube.com/@nirajan.cosmos/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.twitter.com/nirajandhakal_7">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/nirajan.dhakal.007">
+  <a href="https://www.instagram.com/nirajandhakal.dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.reddit.com/user/nirajandhakal37">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
   <a href="https://www.kaggle.com/agamotto">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> <br>
@@ -109,7 +106,7 @@ I am actively learning and have interests in **Astronomy** and **Astrophysics**,
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![dhakalnirajan's Stats](https://github-readme-stats.vercel.app/api?username=dhakalnirajan&theme=synthwave&show_icons=true&hide_border=true&count_private=true&show=prs_merged,prs_merged_percentage&width=500) | [![dhakalnirajan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalnirajan&theme=synthwave&hide_border=true&layout=donut-vertical&langs_count=15&size_weight=0.1&count_weight=1)](https://github.com/dhakalnirajan/github-readme-stats) |
 | My Github Streak                                                                                                                                 | My Sparkline                                                                                                                                                                                    |
-| ![dhakalnirajan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhakalnirajan&theme=synthwave&hide_border=true)                | [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/dhakalnirajan/badges)                                                                                            |
+| ![dhakalnirajan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhakalnirajan&theme=synthwave&hide_border=true)                | [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/dhakalnirajan/dhakalnirajan)                                                                                            |
 
 <br>
   
