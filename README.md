@@ -108,9 +108,7 @@
     <tr>
       <td valign="top" width="50%">
         <h3 align="center">My GitHub Streak Stats</h3>
-<a href="https://github.com/dhakalnirajan">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhakalnirajan&theme=synthwave&hide_border=false" alt="GitHub Streak">
-        </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhakalnirajan&theme=synthwave&hide_border=true" alt="GitHub Streak" /></a>
       </td>
       <td valign="top" width="50%">
         <h3 align="center">My Sparkline</h3>
